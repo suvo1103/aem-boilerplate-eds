@@ -3,7 +3,7 @@
 /**
 * Import uswds-compile
 */
-const uswds = require("@uswds/compile");
+const uswds = require('@uswds/compile');
 
 /**
 * USWDS version
